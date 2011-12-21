@@ -1,9 +1,5 @@
-17 十一月 2011 12:50:18,423 INFO  ~ Starting d:\Users\playit\workspace\moneyaccount
-17 十一月 2011 12:50:18,934 WARN  ~ You're running Play! in DEV mode
-17 十一月 2011 12:50:19,017 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
-17 十一月 2011 12:50:23,853 INFO  ~ Connected to jdbc:mysql://127.0.0.1/MYDB?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
-17 十一月 2011 12:50:25,003 INFO  ~ Application 'moneyaccount' is now started !
-17 十一月 2011 13:21:29,784 ERROR ~ Unsuccessful: create table Guy (id bigint not null auto_increment, account double precision not null, name varchar(255), password varchar(255), showname varchar(255), primary key (id)) ENGINE=InnoDB DEFAULT CHARSET=utf8
-17 十一月 2011 13:21:29,785 ERROR ~ Table 'guy' already exists
-17 十一月 2011 14:04:06,459 ERROR ~ <AST>:1:33: unexpected AST node: day
-17 十一月 2011 14:05:07,065 ERROR ~ <AST>:1:33: unexpected AST node: day
+21 十二月 2011 23:49:34,455 INFO  ~ Starting /home/zhangh/workspace/playit/moneyaccount
+21 十二月 2011 23:49:35,125 WARN  ~ You're running Play! in DEV mode
+21 十二月 2011 23:49:35,201 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+21 十二月 2011 23:49:40,238 INFO  ~ Connected to jdbc:mysql://127.0.0.1/MYDB?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+21 十二月 2011 23:49:43,458 INFO  ~ Application 'moneyaccount' is now started !

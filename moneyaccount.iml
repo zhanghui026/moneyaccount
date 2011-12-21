@@ -11,9 +11,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
       <library name="Project Libraries">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/lib" />
-        </CLASSES>
+        <CLASSES />
         <JAVADOC />
         <SOURCES />
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
@@ -22,21 +20,21 @@
     <orderEntry type="module-library">
       <library name="PlayFramework Dependencies">
         <CLASSES>
-          <root url="file://C:/play/framework/lib" />
+          <root url="file://$USER_HOME$/app/play/framework/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://C:/play/framework/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/app/play/framework/lib" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/play/framework/play-1.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/app/play/framework/play-1.2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://C:/play/framework/src" />
+          <root url="file://$USER_HOME$/app/play/framework/src" />
         </SOURCES>
       </library>
     </orderEntry>
